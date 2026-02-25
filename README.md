@@ -91,7 +91,7 @@ Both scripts follow the same detection pipeline:
 - Detection quality can drop in poor lighting, occlusion, or extreme face angles
 - Current scripts are minimal and use hardcoded file/webcam inputs
 
-## Suggested Improvements
+## Future Scope:
 
 - Add CLI arguments for input image/video path
 - Save output image/video to disk
@@ -100,25 +100,3 @@ Both scripts follow the same detection pipeline:
 - Upgrade dependencies for modern Python compatibility
 - Add unit/integration tests
 
-## GitHub Metadata Suggestions
-
-If you are publishing this repository, you can use:
-
-**Repository description**
-
-> Face detection in images and live webcam streams using OpenCV Haar Cascades (Python).
-
-**Suggested GitHub topics**
-
-- `opencv`
-- `computer-vision`
-- `face-detection`
-- `python`
-- `haar-cascade`
-- `realtime-detection`
-- `webcam`
-- `image-processing`
-
-## License
-
-No license file is currently included. Add a `LICENSE` file (for example MIT) before open-source distribution.
